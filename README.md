@@ -1,7 +1,7 @@
 ## 系统基于基于PHP的laravel框架搭建
 
 项目完整可运行，搭建需要有php代码基础以及telegram机器人相关知识。
-开源地址:https://github.com/lintan/php-tg-redmine
+开源地址:https://github.com/sharkonce/code
 
 #### 版本
 php8.0
