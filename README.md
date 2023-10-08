@@ -33,7 +33,7 @@ laravel 9.19
     抢包玩家抢到红包金额最后一位数字如果和发包玩家设定的雷值不同 则 判断为未中雷
     抢包玩家就相当于赢了 抢包玩家白领取【赢了】的金额基础上，平台会抽取5%的抽水费用
     发包玩家就相当于输了
-   
+![https://github.com/sharkonce/code/blob/main/20231008154444.png](https://github.com/sharkonce/code/blob/main/20231008154444.png)
 ## 电报机器人创建教程
 
 1. 打开 Telegram 搜索框，输入 @BotFather ，通过它申请建立一个新的机器人项目。
