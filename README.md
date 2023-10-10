@@ -1,7 +1,8 @@
 ## 系统基于基于PHP的laravel框架搭建
 
 项目完整可运行，搭建需要有php代码基础以及telegram机器人相关知识。
-开源地址:https://github.com/sharkonce/code
+开源地址:[https://github.com/sharkonce/code](https://github.com/sharkonce/code)
+[Telegram红包扫雷运营群，立即体验](https://t.me/sharkonce) 
 
 #### 版本
 php8.0
@@ -44,5 +45,5 @@ laravel 9.19
 
 
 >本项目免费开源，有问题联系 [@sharkonce](https://t.me/sharkonce) (请耐心等候)
->
+>[Telegram红包扫雷运营群，立即体验](https://t.me/sharkonce) 
 >开源地址:[https://github.com/sharkonce/code](https://github.com/sharkonce/code)
