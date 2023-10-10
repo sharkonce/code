@@ -3,7 +3,8 @@
 项目完整可运行，搭建需要有php代码基础以及telegram机器人相关知识。
 开源地址:[https://github.com/sharkonce/code](https://github.com/sharkonce/code)
 
-[Telegram红包扫雷运营群，立即体验](https://t.me/sharkonce) 
+[Telegram红包扫雷源码，点击联系](https://t.me/sharkonce) 
+[Telegram红包扫雷运营群，立即体验](https://t.me/dfgj1) 
 
 #### 版本
 php8.0
